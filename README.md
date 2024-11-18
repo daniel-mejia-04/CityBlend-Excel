@@ -1,6 +1,6 @@
-# CityBlend-excel
+# CityBlend-Excel
 
-## Análisis de datos cafetería “CityBlend”
+## Análisis de datos - cafetería “CityBlend”
 
 ### Descripción 
 
